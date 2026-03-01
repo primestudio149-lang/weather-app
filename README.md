@@ -56,7 +56,7 @@ Please ensure your code follows the project’s style and passes all existing te
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the [Mit license]( https://rem.mit-license.org/.)
 
 ---
 
